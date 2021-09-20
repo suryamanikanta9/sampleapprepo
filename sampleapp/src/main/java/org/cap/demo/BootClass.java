@@ -7,5 +7,12 @@ public class BootClass {
 		System.out.println("Hello World");
 
 	}
+	public static void show() {
+		int a[]= {1,2,3,4};
+		for(int i=0;i<20;i++) {
+			System.out.println(i);
+		}
+		
+	}
 
 }
